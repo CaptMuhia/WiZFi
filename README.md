@@ -1,7 +1,7 @@
 # WiZFi
  Introducing WiZFi, the secure &amp; flexible public WiFi system! Ditch shared passwords &amp; hotspot woes!  Get unique, expiring passwords &amp; pay per hour, day, or month. We keep it fair &amp; convenient, so you can simply connect &amp; enjoy!  #WiFi #Innovation #SecureConnection
 
-Feel free to reach out if you have any questions or better ideas.
+Feel free to reach out if you have any or suggest questions or ideas to help improve the project.
 
 BELOW IS A DETAILED SUMMARY
 
